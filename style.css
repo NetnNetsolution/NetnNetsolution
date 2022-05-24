@@ -13,7 +13,7 @@
   }
   
   input[type=submit] {
-    background-color: #84b9c4;
+    background-color: #29c436;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -27,7 +27,7 @@
   /* Style the container/contact section */
   .container {
     border-radius: 5px;
-    background-color: #45a049;
+    background-color: #84b9c4;
     padding: 10px;
   }
   
