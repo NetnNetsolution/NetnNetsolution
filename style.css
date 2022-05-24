@@ -13,7 +13,7 @@
   }
   
   input[type=submit] {
-    background-color: #C4A484;
+    background-color: #84b9c4;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -21,13 +21,13 @@
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #blue;
   }
   
   /* Style the container/contact section */
   .container {
     border-radius: 5px;
-    background-color: #C4A484;
+    background-color: #45a049;
     padding: 10px;
   }
   
